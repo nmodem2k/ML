@@ -1,2 +1,2 @@
 # ML
-all mini projects on ml i have played with
+all mini projects on ml i have done
